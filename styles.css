@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #d9534f;
+}
+
+table {
+    margin-top: 20px;
+}
+
+th {
+    background-color: #d9534f !important;
+    color: white !important;
+}
+
+footer {
+    margin-top: 50px;
+}
